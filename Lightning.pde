@@ -7,8 +7,8 @@ void setup() {
   strokeWeight(2);
  frameRate(100000000);
  noStroke();
-  fill(74,73,73);   ellipse(30, 30, 150, 100);
-
+  fill(74,73,73);   
+ellipse(30, 30, 150, 100);
   ellipse(150, 20, 140, 90);
   ellipse(250, 20, 130, 80);
   ellipse(350, 20, 150, 100);
